@@ -1,0 +1,32 @@
+.body_backgorund {
+    background-image: url("colours.png");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: rgb(9, 30, 219); 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
+  #color{
+      background-color: darkcyan;
+      font-weight: bold;
+      font-size: 15px;
+  }
+  #clear{
+      background-color: rgb(255, 123, 0);
+      font-weight: bolder;
+      font-size: 15px;
+  }
+  
